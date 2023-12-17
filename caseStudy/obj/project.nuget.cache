@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4O0pfl8XxJyhoMFOaoMOZeIu1s9krEFQN+lYxqCno1Raxbfn6dwTL5/WAiWm/rpLaCuOulPXbGZ5QVEW8O1V8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devin\\Documents\\School\\2ITF\\DevOps & Security\\Case Study\\caseStudy\\caseStudy\\caseStudy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}
